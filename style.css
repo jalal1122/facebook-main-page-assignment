@@ -5,3 +5,20 @@
 .mycl-right-nav a{
     background-color: rgb(212, 212, 212);
 }
+
+.mycl-center-nav li{
+    margin: 1vw 4vw;
+}
+
+.mycl-right-nav li{
+    margin: 1vw;
+}
+
+.mycl-svg-div-main-left-column{
+    width: 2.5vw;
+    height: 2.5vw;
+}
+
+.mycl-main-left-top-row{
+    border-bottom: 1px solid grey;
+}
