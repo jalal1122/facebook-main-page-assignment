@@ -19,6 +19,16 @@
     height: 2.5vw;
 }
 
-.mycl-main-left-top-row{
+.mycl-main-border-b-row{
     border-bottom: 1px solid grey;
+}
+
+.mycl-svg-div-main-right-column{
+    width: 2.5vw;
+    height: 2.5vw;
+    border-radius: 50%;
+}
+
+.mycl-main-right-top-row > div{
+    margin: 1vw;
 }
