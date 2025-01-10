@@ -75,3 +75,7 @@ nav{
 .mycl-active-nav-icon{
     border-bottom: 2px solid #0F8CEC;
 }
+
+.mycl-main-left-cont{
+    overflow-y: auto;
+}
