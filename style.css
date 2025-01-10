@@ -20,15 +20,58 @@
 }
 
 .mycl-main-border-b-row{
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid rgb(214, 214, 214);
 }
 
 .mycl-svg-div-main-right-column{
-    width: 2.5vw;
-    height: 2.5vw;
-    border-radius: 50%;
-}
+    width: 3vw;
+    height: 3vw;
+}   
 
 .mycl-main-right-top-row > div{
     margin: 1vw;
+}
+
+.main-svg-top-row{
+    width: 4vw;
+    height: 4vw;
+    border-radius: 100%;
+}
+
+.main-svg-top-row svg{
+    color: rgb(50, 50, 211);
+}
+
+.post-1-img-1{
+    height: 30vw;
+}
+
+.post-1-img-2{
+    width: 13vw;
+    height: 15vw;
+}
+
+.post-1-img-3{
+    width: 13vw;
+    height: 15vw;
+}
+
+.mycl-comment-box{
+    position: relative;
+}
+
+.mycl-comment-box i{
+    position: absolute;
+}
+
+.mycl-comment-box img{
+    position: absolute;
+}
+
+nav{
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.3);
+}
+
+.mycl-active-nav-icon{
+    border-bottom: 2px solid #0F8CEC;
 }
